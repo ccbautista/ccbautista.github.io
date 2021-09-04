@@ -9,7 +9,7 @@
   </h3>
 <hr>
 
-<img src="https://ccbautista.github.io/ccbautista_pic.jpg" align="left" hspace="20"/> <!--- Edit this link to where your picture is. !--->
+<img src="https://ccbautista.github.io/ccbautista_pic.jpg" align="left" hspace="20"/>
 
 <h3> 
     Contact Details
