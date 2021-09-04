@@ -10,6 +10,12 @@
 <hr>
 
 <img src="https://ccbautista.github.io/ccbautista_pic.jpg" align="left" hspace="20"/> <!--- Edit this link to where your picture is. !--->
+
+<!--- 
+        Replace the link in the next line with https://ccbautista.github.io/ccbautista_pic.jpg (or wherever your picture is in your repository) to put your picture.
+!--->
+<img src="https://github.com/xmgbautista/ccbautista.github.io/blob/main/ccbautista_pic.jpg" align="left" hspace="20"/> 
+
 <h3> 
     Contact Details
 </h3>
