@@ -19,4 +19,4 @@ BA 313, Econometrics <br>
 BA 320, Financial Theory <br>
 BA 391, Industrial Organization <br>
 
-<!--- Add the links to the classes above using html or markdown. For markdown, the syntax is [insert texxt here](insert url here), where you change the text in the () and [] while retaining [] and (). ---!>
+<!--- Add the links to the classes above using html or markdown. For markdown, the syntax is [insert texxt here](insert url here), where you change the text in the () and [] while retaining [] and ().  ---!>
