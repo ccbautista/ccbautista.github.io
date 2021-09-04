@@ -4,7 +4,7 @@
           <a href="https://ccbautista.github.io/">Home</a> &emsp;
           <a href="https://ccbautista.github.io/research">Research</a> &emsp;
           <a href="https://ccbautista.github.io/teaching">Teaching</a> &emsp;
-          <a href="https://drive.google.com/file/d/1Iopc_TrXDKz79ofbDGWxYiX8aaP9EgEH/view">CV</a> &emsp;
+          <a href="https://drive.google.com/file/d/1Iopc_TrXDKz79ofbDGWxYiX8aaP9EgEH/view">CV</a>
       </p>
   </h3>
 <hr>
