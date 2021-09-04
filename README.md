@@ -9,7 +9,7 @@
   </h3>
 <hr>
    
-<img src="https://github.com/xmgbautista/ccbautista.github.io/blob/main/ccbautista_pic.jpg" align="left" hspace="20"/>
+<img src="https://github.com/xmgbautista/ccbautista.github.io/blob/main/ccbautista_pic.jpg" align="left" hspace="20"/> 
 
 <h3> 
     About Me
@@ -27,3 +27,7 @@
     Telephone: +632 928 4571 to 75<br>
     Office: Room 119, VSB Building, UP Diliman Campus
 </p>
+
+
+<!--- Change the link in line 12 to where you store your picture. ---!>
+
