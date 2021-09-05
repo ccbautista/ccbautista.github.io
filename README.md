@@ -29,5 +29,3 @@
 </p>
 
 
-<!--- Change the link in line 12 to where you store your picture. ---!>
-
