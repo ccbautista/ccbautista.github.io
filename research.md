@@ -16,7 +16,7 @@
     Publications
 </h4>
 
-1. "Interest rate-exchange rate dynamics in the Philippines: a DCC analysis."	*Applied Economics Letters*, vol. 10, 2003, pp.107-111.	<br>
+1. "[Interest rate-exchange rate dynamics in the Philippines: a DCC analysis.](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjY2JhdXRpc3RhfGd4OjU4OGU5NDMxZGZjNGUyNjI)"	*Applied Economics Letters*, vol. 10, 2003, pp.107-111.	<br>
 2. "Stock market volatility in the Philippines." *Applied Economics Letters*, vol. 10, 2003, pp. 315-318.		<br>
 3. "Estimates of output gaps in four Southeast Asian Countries." *Economics Letters*, vol.80, no. 3, 2003, pp.365-371.		<br>
 4. "Monetary policy and exchange market pressure: The case of the Philippines."	*Journal of Macroeconomics*, vol. 27, no. 1, 2005, pp. 153-168. (With Maria Socorro Gochoco-
