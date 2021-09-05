@@ -9,7 +9,7 @@
   </h3>
 <hr>
    
-<img src="https://github.com/xmgbautista/ccbautista.github.io/blob/main/ccbautista_pic.jpg" align="left" hspace="20"/> 
+<img src="https://ccbautista.github.io/ccbautista_pic.jpg" align="left" hspace="20"/> 
 
 <h3> 
     About Me
