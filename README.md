@@ -15,7 +15,7 @@
     About Me
 </h3>
 <p>
-    I am a Professor in the Departement of Accounting and Finance at the Virata School of Business, University of the Philippines Diliman. My research interests are in 
+    I am a Professor in the Department of Accounting and Finance at the Virata School of Business, University of the Philippines Diliman. My research interests are in 
     macroeconomics, finance, and international economics.
 </p>
 <h3> 
