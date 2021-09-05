@@ -41,7 +41,7 @@
      Previously circulated as "Multidimensional Poverty in the Philippines." *VSB working paper No. 1702*, 2017. <br>
 18. "Tracking the Philippine economy using a macroeconometric model." *Philippine Management Review*, vol. 26, 2019, pp. 17-30. (With Leila C. Rahnema.)	<br>
 19. "Corporate Financial Distress: The Case of Publicly-listed Firms in an Emerging Market Economy."	*Journal of International Financial Management and Accounting*, vol. 
-    32, no. 1, 2011, pp. 5-20. (With Regina M. Lizares.)	<br>
+    32, no. 1, 2021, pp. 5-20. (With Regina M. Lizares.)	<br>
 19. "Determinants of Labour Force Participation in the Philippines." *Malaysian Journal of Economic Studies*, vol. 57, no. 2, 2020, pp. 305-323. (With Regina M. Lizares.)	<br>
 
 <h4> 
