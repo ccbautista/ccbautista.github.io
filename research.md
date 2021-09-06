@@ -38,7 +38,7 @@
 15. "[Graduate business program admission criteria and student graduate academic performance.](https://pmr.upd.edu.ph/index.php/pmr/article/view/202)" *Philippine Management Review*, vol. 24, 2016, pp.83-98. (With Regina M. Lizares, 
      Leila C. Rahnema, Mia Pang-Rey, and Ivy D. Suan.)	<br>
 16. "[Explaining multidimensional Poverty: A household level analysis.](https://doi.org/10.1162/asep_a_00648)" *Asian Economic Papers*, vol. 17, no. 3, 2018, p. 183-210.	<br>
-     Previously circulated as "Multidimensional Poverty in the Philippines." *VSB working paper No. 1702*, 2017. <br>
+     Previously circulated as "[Multidimensional Poverty in the Philippines.](http://ssrn.com/abstract=2922997)" *VSB working paper No. 1702*, 2017. <br>
 18. "[Tracking the Philippine economy using a macroeconometric model.](https://pmr.upd.edu.ph/index.php/pmr/article/view/333)" *Philippine Management Review*, vol. 26, 2019, pp. 17-30. (With Leila C. Rahnema.)	<br>
 19. "[Corporate Financial Distress: The Case of Publicly-listed Firms in an Emerging Market Economy.](https://doi.org/10.1111/jifm.12122)"	*Journal of International Financial Management and Accounting*, vol. 
     32, no. 1, 2021, pp. 5-20. (With Regina M. Lizares.)	<br>
