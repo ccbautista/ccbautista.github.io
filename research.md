@@ -39,10 +39,10 @@
      Leila C. Rahnema, Mia Pang-Rey, and Ivy D. Suan.)	<br>
 16. "[Explaining multidimensional Poverty: A household level analysis.](https://doi.org/10.1162/asep_a_00648)" *Asian Economic Papers*, vol. 17, no. 3, 2018, p. 183-210.	<br>
      Previously circulated as "[Multidimensional Poverty in the Philippines.](http://ssrn.com/abstract=2922997)" *VSB working paper No. 1702*, 2017. <br>
-18. "[Tracking the Philippine economy using a macroeconometric model.](https://pmr.upd.edu.ph/index.php/pmr/article/view/333)" *Philippine Management Review*, vol. 26, 2019, pp. 17-30. (With Leila C. Rahnema.)	<br>
+17. "[Tracking the Philippine economy using a macroeconometric model.](https://pmr.upd.edu.ph/index.php/pmr/article/view/333)" *Philippine Management Review*, vol. 26, 2019, pp. 17-30. (With Leila C. Rahnema.)	<br>
+18. "[Determinants of Labour Force Participation in the Philippines.](https://doi.org/10.22452/MJES.vol57no2.7)" *Malaysian Journal of Economic Studies*, vol. 57, no. 2, 2020, pp. 305-323. (With Regina M. Lizares.)	<br>
 19. "[Corporate Financial Distress: The Case of Publicly-listed Firms in an Emerging Market Economy.](https://doi.org/10.1111/jifm.12122)"	*Journal of International Financial Management and Accounting*, vol. 
     32, no. 1, 2021, pp. 5-20. (With Regina M. Lizares.)	<br>
-19. "[Determinants of Labour Force Participation in the Philippines.](https://doi.org/10.22452/MJES.vol57no2.7)" *Malaysian Journal of Economic Studies*, vol. 57, no. 2, 2020, pp. 305-323. (With Regina M. Lizares.)	<br>
 
 <h4> 
     Book Chapters
