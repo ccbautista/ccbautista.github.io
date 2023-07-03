@@ -22,6 +22,5 @@ I am Professor Emeritus in the Department of Accounting and Finance at the <a hr
 
 ### Contact Details
 Email: <a href="mailto:bautista@up.edu.ph">bautista@up.edu.ph</a><br>
-Website: <a href="https://ccbautista.github.io/">ccbautista.github.io</a><br>
 Telephone: +632 928 4571 to 75<br>
 Office: Room 119, VSB Building, UP Diliman Campus
