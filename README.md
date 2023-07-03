@@ -15,7 +15,7 @@
     About Me
 </h3>
 <p>
-    I am a Professor in the Department of Accounting and Finance at the <a href="http://vsb.upd.edu.ph">Virata School of Business</a>, <a href="https://upd.edu.ph/">University of the Philippines Diliman</a>. My research interests are in 
+    I am an Emeritus Professor in the Department of Accounting and Finance at the <a href="http://vsb.upd.edu.ph">Virata School of Business</a>, <a href="https://upd.edu.ph/">University of the Philippines Diliman</a>. My research interests are in 
     macroeconomics, finance, industrial organization and international economics.
 </p>
 <h3> 
