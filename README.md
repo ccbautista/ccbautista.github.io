@@ -19,4 +19,4 @@ I am Professor Emeritus in the Department of Accounting and Finance at the <a hr
 * Macroeconomics
 * Finance
 * Industrial Organization
-* International Economics.
+* International Economics
