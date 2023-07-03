@@ -14,8 +14,7 @@
 1. "[Interest rate-exchange rate dynamics in the Philippines: a DCC analysis.](https://doi.org/10.1080/1350485022000040970)"	*Applied Economics Letters*, vol. 10, 2003, pp.107-111.	<br>
 2. "[Stock market volatility in the Philippines.](https://doi.org/10.1080/13504850210148107)" *Applied Economics Letters*, vol. 10, 2003, pp. 315-318.		<br>
 3. "[Estimates of output gaps in four Southeast Asian Countries.](https://doi.org/10.1016/S0165-1765(03)00116-2)" *Economics Letters*, vol.80, no. 3, 2003, pp.365-371.		<br>
-4. "[Monetary policy and exchange market pressure: The case of the Philippines.](https://doi.org/10.1016/j.jmacro.2003.09.006)"	*Journal of Macroeconomics*, vol. 27, no. 1, 2005, pp. 153-168. (With Maria Socorro Gochoco-
-    Bautista.)	<br>
+4. "[Monetary policy and exchange market pressure: The case of the Philippines.](https://doi.org/10.1016/j.jmacro.2003.09.006)"	*Journal of Macroeconomics*, vol. 27, no. 1, 2005, pp. 153-168. (With Maria Socorro Gochoco-Bautista.)	<br>
 5. "[How volatile are East Asian Stocks during high volatility periods?.](https://doi.org/10.1080/13504850500044138)" *Applied Economics Letters*, vol. 12, 2005, pp. 319-326.		<br>
 6. "[The exchange rate-interest differential relationship in six East Asian countries.](https://doi.org/10.1016/j.econlet.2006.01.016)" *Economics Letters*, vol. 92, no. 1, 2006, pp. 137-142.		<br>
 7. "[Saving-investment relationship, financial crisis and structural changes in East Asian countries.](http://cepii.fr/IE/rev111/bautista.pdf)" *Economie Internationale*, vol. 111, 2007, pp. 81-99. (With Samuel 
