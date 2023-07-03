@@ -9,9 +9,7 @@
   </h3>
 <hr>
    
-<h3> 
-    Research
-</h3> 
+### Research
 <h4> 
     Publications
 </h4>
