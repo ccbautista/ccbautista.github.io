@@ -4,7 +4,8 @@
           <a href="https://ccbautista.github.io/">Home</a> &emsp;
           <a href="https://ccbautista.github.io/research">Research</a> &emsp; 
           <a href="https://ccbautista.github.io/teaching">Teaching</a> &emsp;
-          <a href="https://ccbautista.github.io/CV">CV</a> 
+          <a href="https://ccbautista.github.io/CV">CV</a> &emsp;
+          <a href="https://ccbautista.github.io/contact">Contact</a> 
       </p>
   </h3>
 <hr>
