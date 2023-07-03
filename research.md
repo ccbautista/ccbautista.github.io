@@ -10,10 +10,7 @@
 <hr>
    
 ### Research
-<h4> 
-    Publications
-</h4>
-
+#### Publications
 1. "[Interest rate-exchange rate dynamics in the Philippines: a DCC analysis.](https://doi.org/10.1080/1350485022000040970)"	*Applied Economics Letters*, vol. 10, 2003, pp.107-111.	<br>
 2. "[Stock market volatility in the Philippines.](https://doi.org/10.1080/13504850210148107)" *Applied Economics Letters*, vol. 10, 2003, pp. 315-318.		<br>
 3. "[Estimates of output gaps in four Southeast Asian Countries.](https://doi.org/10.1016/S0165-1765(03)00116-2)" *Economics Letters*, vol.80, no. 3, 2003, pp.365-371.		<br>
@@ -42,16 +39,10 @@
 19. "[Corporate Financial Distress: The Case of Publicly-listed Firms in an Emerging Market Economy.](https://doi.org/10.1111/jifm.12122)"	*Journal of International Financial Management and Accounting*, vol. 
     32, no. 1, 2021, pp. 5-20. (With Regina M. Lizares.)	<br>
 
-<h4> 
-    Book Chapters
-</h4>
-
+#### Book Chapters
 1. "[External liberalization, growth and distribution in the Philippines.](http://cba.upd.edu.ph/bautista/docs/cepa-phil-0102.pdf)" *External Liberalization In Asia, Post-Socialist Europe, and Brazil*, edited by Lance Taylor, Oxford University Press, 2006. (With Joseph Lim.)	<br>
 
-<h4> 
-    Working Papers
-</h4>
-
+#### Working Papers
 1. "A New Keynesian Model of the Philippine Economy."	*Working paper*, 2020.		<br>
 2. "Core inflation in the Philippines: measurement and evaluation."	*Working paper*, 2005.		<br>
 3. "An examination of Philippine monetary policy rules."	*Working paper*, 2009.		<br>
