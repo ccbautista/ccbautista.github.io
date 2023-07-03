@@ -9,12 +9,9 @@
   </h3>
 <hr>
    
-<h3> 
-    Teaching
-</h3>
-
-BA 302, Microeconomic Analysis <br>
-BA 303, Macroeconomic Analysis <br>
-BA 313, Econometrics <br>
-BA 320, Financial Theory <br>
-BA 391, Industrial Organization <br>
+### Teaching
+* BA 302, Microeconomic Analysis <br>
+* BA 303, Macroeconomic Analysis <br>
+* BA 313, Econometrics <br>
+* BA 320, Financial Theory <br>
+* BA 391, Industrial Organization <br>
