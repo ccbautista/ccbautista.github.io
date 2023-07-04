@@ -13,7 +13,7 @@
 <img src="https://ccbautista.github.io/ccbautista_pic.jpg" align="right" hspace="20" width="35%" height="35%"/> 
 
 ### About Me
-I am Professor Emeritus in the Department of Accounting and Finance at the <a href="http://vsb.upd.edu.ph">Virata School of Business</a>, <a href="https://upd.edu.ph/">University of the Philippines Diliman</a>.
+I am a Professor Emeritus in the Department of Accounting and Finance at the <a href="http://vsb.upd.edu.ph">Virata School of Business</a>, <a href="https://upd.edu.ph/">University of the Philippines Diliman</a>.
 
 ### Research Interests
 * Macroeconomics
