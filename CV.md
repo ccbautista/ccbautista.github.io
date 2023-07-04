@@ -10,9 +10,9 @@
   </h3>
 <hr>
    
-<h3> 
-    Curriculum Vitae
-</h3>
+### Curriculum Vitae
+If the embedded PDF below does not load, you can download it [here](cv.pdf).
+<br>
 
 <p align="center">
 <iframe src="https://drive.google.com/file/d/1cnJzGbdl31MwHGmGXWhffd2CSVfoEtfq/preview" width="640" height="480" allow="autoplay"></iframe>
